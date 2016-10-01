@@ -2,8 +2,9 @@
   "name": "anime-fetchers",
   "version": "1.0.1",
   "description": "A collection of anime fetchers which enable to get a link to an online watch site which presents the given anime.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
+    "compile": "./node_modules/.bin/babel -d lib src/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/ori155/anime-fetchers/issues"
   },
-  "homepage": "https://github.com/ori155/anime-fetchers#readme"
+  "homepage": "https://github.com/ori155/anime-fetchers#readme",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-latest": "^6.16.0"
+  }
 }
