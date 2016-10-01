@@ -1,0 +1,23 @@
+{
+  "name": "anime-fetchers",
+  "version": "1.0.0",
+  "description": "A collection of anime fetchers which enable to get a link to an online watch site which presents the given anime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ori155/anime-fetchers.git"
+  },
+  "keywords": [
+    "anime",
+    "online-watch"
+  ],
+  "author": "ori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ori155/anime-fetchers/issues"
+  },
+  "homepage": "https://github.com/ori155/anime-fetchers#readme"
+}
