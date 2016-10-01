@@ -1,1 +1,2 @@
-export * from './src/gogoanime.js';
+import GoGoAnime from './src/gogoanime.js';
+export default GoGoAnime;
