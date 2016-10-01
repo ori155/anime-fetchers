@@ -1,6 +1,6 @@
 {
   "name": "anime-fetchers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of anime fetchers which enable to get a link to an online watch site which presents the given anime.",
   "main": "lib/index.js",
   "scripts": {
